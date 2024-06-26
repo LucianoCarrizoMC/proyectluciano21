@@ -14,6 +14,9 @@ export default function Home() {
       buscar:UseEffect,UseState
       */}
       <Link href={'About'}>algo </Link>
+      <Link href={'Paguina1'}>Paguina1 </Link>
+      <Link href={'Paguina2'}>Paguina2 </Link>
+
     </nav>
     <p>holaa  </p>
     <Perfil nombre="Luciano" apellido="Carrizo" edad={20}/>
